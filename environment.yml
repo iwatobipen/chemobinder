@@ -1,0 +1,6 @@
+name: py4chemoinfo
+channels:
+        - conda-forge
+dependencies:
+        - rdkit
+
