@@ -4,4 +4,4 @@
 
 A Binder-compatible repo with an `environment.yml` file.
 
-Access this Binder at the following URL:
+Access this Binder at the following URL: https://hub.gke.mybinder.org/user/iwatobipen-chemobinder-pq6paghq/tree
