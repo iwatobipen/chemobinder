@@ -2,6 +2,7 @@ name: py4chemoinfo
 channels:
         - conda-forge
 dependencies:
+        - sklearn
         - seaborn
         - matplotlib
         - rdkit
